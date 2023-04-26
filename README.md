@@ -4,7 +4,7 @@ There are several tasks that define the workflow of CRISP - DM. This tax was obt
 
 | Exercise | About |
 | --- | --- |
-|[Exercesi 2](https://github.com/DanielAndresSmg/Penguin-Dataset-Analysis/blob/main/Exercise_2.ipynb) | Data Preprocessing|
+|[Exercesi 2](https://github.com/DanielAndresSmg/Penguin-Dataset-Analysis/blob/main/Exercise_2.ipynb) | EDA, Data Preprocessing|
 |[Exercesi 3](https://github.com/DanielAndresSmg/Penguin-Dataset-Analysis/blob/main/Exercise_3.ipynb) | Hypothesis, Model / Machine Learning |
 |[Exercesi 4](https://github.com/DanielAndresSmg/Penguin-Dataset-Analysis/blob/main/Exercise_4.ipynb) | Model Performance Analytics|
 |[Exercesi 5](https://github.com/DanielAndresSmg/Penguin-Dataset-Analysis/blob/main/Exercise_5.ipynb)| Actionable Insight and Storytelling|
